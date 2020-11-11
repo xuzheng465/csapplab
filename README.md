@@ -2,4 +2,11 @@
 
 
 - [ ] Bomblab
+- [ ] Attacklab
+- [ ] Cachelab
+- [ ] PerformanceLab
+- [ ] mallocLab
+- [ ] ShellLab
+- [ ] ProxyLab
+
 
