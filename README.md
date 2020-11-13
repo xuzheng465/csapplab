@@ -30,3 +30,14 @@
 | movw        |        | Move Word        |
 | movl        |        | Move Double Word |
 | movq        |        | Move Quad Word   |
+
+## Bomblab
+
+(gdb) x/s $esi 
+
+Print the string value of $esi
+
+### Phase 1
+
+Border relations with Canada have never been better.
+
